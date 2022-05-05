@@ -1,0 +1,101 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: italic;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+
+input
+{
+    background: lightblue;
+}
+
+p{
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#chairman{
+    height: 200px;
+    width: 170px;
+    border-radius: 85px;
+    border-color: darkblue;
+    border-width: 100px;
+}
+
+#director1{
+      height: 170px;
+    width: 170px;
+    border-radius: 85px;
+    border-color: darkblue;
+    border-width:thick;
+}
+
+#products{
+    border-radius: thick;
+    border-color: darkblue;
+    border-width: thick;    
+}
+
+h3{
+    font-family: cursive;
+}
+
+#director2{
+     height: 170px;
+    width: 170px;
+    border-radius: 85px;
+    border-color: darkblue;
+    border-width:thick;
+}
+
+a{
+    font-size: 23px;
+    color: black;
+    font-family:inherit;
+}
+
+#cn{
+font-size: 23px;
+}
